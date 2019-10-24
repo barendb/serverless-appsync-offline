@@ -63,6 +63,9 @@ typings/
 # VS Code settings
 *.code-workspace
 
+# idea Code settins
+.idea
+
 # yarn/npm lock files
 yarn.lock
 package-lock.json

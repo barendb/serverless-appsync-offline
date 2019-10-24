@@ -28,17 +28,17 @@
     "test": "jest --no-cache"
   },
   "dependencies": {
-    "@conduitvc/appsync-emulator-serverless": "^0.14.0",
-    "aws-sdk": "^2.463.0",
-    "lodash": "^4.17.11"
+    "@conduitvc/appsync-emulator-serverless": "^0.14.5",
+    "aws-sdk": "^2.556.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
     "babel-core": "^6.26.3",
-    "babel-jest": "^24.8.0",
+    "babel-jest": "^24.9.0",
     "husky": "^2.3.0",
-    "jest": "^24.8.0"
+    "jest": "^24.9.0"
   },
   "husky": {
     "hooks": {
